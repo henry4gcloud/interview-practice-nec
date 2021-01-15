@@ -15,15 +15,15 @@ npm run start
 
 ### Sample Case
 
-####Step1: 'Select Search Options'
+#### Step1: 'Select Search Options'
 
 ![alt text](images/Select Search Options.png)
 
-####Step2: 'Select Search Term'
+#### Step2: 'Select Search Term'
 
 ![alt text](images/Select Search Term.png)
 
-####Step3: 'Input Searching Value'
+#### Step3: 'Input Searching Value'
 
 ![alt text](images/Input Searching Value.png)
 
