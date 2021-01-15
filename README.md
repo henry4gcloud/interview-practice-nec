@@ -1,6 +1,6 @@
 # Interview practice of NEC
 
-Please make sure the Node JS have ready in your environment.
+Please make sure the NodeJS has been ready in your environment.
 
 ### Install:  run cmd
 ```
