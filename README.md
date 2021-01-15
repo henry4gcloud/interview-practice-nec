@@ -17,15 +17,15 @@ npm run start
 
 #### Step1: 'Select Search Options'
 
-![alt text](images/Select Search Options.png)
+![alt text](images/SelectSearchOptions.png)
 
 #### Step2: 'Select Search Term'
 
-![alt text](images/Select Search Term.png)
+![alt text](images/SelectSearchTerm.png)
 
 #### Step3: 'Input Searching Value'
 
-![alt text](images/Input Searching Value.png)
+![alt text](images/InputSearchingValue.png)
 
 
 ####Result
